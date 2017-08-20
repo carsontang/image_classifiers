@@ -1,3 +1,9 @@
+# Image Classifiers
+
+This is a repository of various image classifiers:
+
+* Cifar10 image classifier - implemented with a modified LeNet
+
 # Configure and Manage Your Environment with Anaconda
 
 The following environment setup instructions have been adapted from [Udacity's self driving car nanodegree environment setup instructions](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/doc/configure_via_anaconda.md).
